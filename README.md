@@ -7,16 +7,17 @@ Techie CDN
 <div>
 
 
-<ul>
+<ol>
 <p>The current Users are :</p>
 <li>PrizeTechie</li><li>PrizeTechieAdmin</li>
 </ul>
 <ul>
 <p>
 Invitees include: 
-<li>iykedairo</li><l>michaeliyke</li>
+<li>iykedairo</li>
+  <li>michaeliyke</li>
   <li>Amarachi</li>
   <li>Favour</li>
 </p>
-<ul>
+<ol>
 </div>
